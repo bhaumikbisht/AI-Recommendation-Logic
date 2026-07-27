@@ -1,3 +1,5 @@
+
+
 # AI-Recommendation-Logic
 # 🎬 AI Movie Recommendation System 
 
@@ -279,12 +281,13 @@ F --> G[Save History]
 
 
 # RECOMMENDATION 
-
+<img width="1382" height="995" alt="Screenshot 2026-07-27 103626" src="https://github.com/user-attachments/assets/30d866ed-db10-4341-8629-fbd9312e5121" />
+<img width="1241" height="992" alt="Screenshot 2026-07-27 103648" src="https://github.com/user-attachments/assets/09c52186-de1c-4f3d-9535-38d72beec4c7" />
 
 
 # RECOMMDNDATION HISTORY 
 
-
+<img width="1110" height="996" alt="Screenshot 2026-07-27 103751" src="https://github.com/user-attachments/assets/63921362-c606-4cc1-ad2f-fc098f7a9085" />
 
 # 🌟 Highlights
 
